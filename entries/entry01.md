@@ -37,7 +37,11 @@ The line `fitMedia(RD_UK_HOUSE_MAINBEAT_8,1,1,5);` means that the sound clip `RD
 
 The line `makeBeat(OS_SNARE03, 3, 4, fillA);` means that the sound clip `OS_SNARE03` will be added to track 3, starting and ending at measure 4 following the rhythm pattern of `var fillA = "0---0-0-00--0000";` where the `0`'s represnt when the rhythm plays and where the `-` reprsents when it pauses
 
+#### EDP
+
 Right now, I'm at step 0 of the Engineering Design Process because I haven't defined a problem yet and hvae only researched my tool for the past few weeks.
+
+#### Skills
 
 Some skills that I used during the past few weeks were How to learn and How to Google. I used the How to learn skill by remembering how I learned my SEP10 tool the best. Last year I learned best through videos and visual examples, so I used the How to Google skill to find good video tutorials that help me learn Earsketch using Javascript and not Python.
 
