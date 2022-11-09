@@ -12,6 +12,10 @@ I haven't really tinkered with Earsketch, since there is a lot to learn still, b
 * `parameter3` represents the start measure (when the sound clip starts)
 * `parameter4` represents the end measure (when the sound clip ends)
 
+* `makeBeat()` is a function that adds a rhythms that you can customize using parameters
+* It follows the same format as `fitMedia()` except for `parameter4`
+* `parameter4` represents the beat string (when the rhythm starts to play and when it pauses/stops)
+
 For example:
 
 ```js
@@ -28,6 +32,8 @@ makeBeat(OS_SNARE03, 3, 4, fillA);
 ```
 
 The line `fitMedia(RD_UK_HOUSE_MAINBEAT_8,1,1,5);` means that the sound clip `RD_UK_HOUSE_MAINBEAT_8` will be added to track 1 , starting at measure 1 and ending at measure 5.
+
+The line `makeBeat(OS_SNARE03, 3, 4, fillA);` means that the sound clip `OS_SNARE03` will be added to track 3, starting and ending at measure 4 following the rhythm pattern of `var fillA = "0---0-0-00--0000";`
 
 Right now, I'm at step 0 of the Engineering Design Process because I haven't defined a problem yet and hvae only researched my tool for the past few weeks.
 
