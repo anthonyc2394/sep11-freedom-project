@@ -22,7 +22,7 @@ var fillC = "--000-00-00-0-00";
 makeBeat(OS_SNARE03, 3, 4, fillA);
 ```
 
-The line `fitMedia(RD_UK_HOUSE_MAINBEAT_8,1,1,5);` means that 
+The line `fitMedia(RD_UK_HOUSE_MAINBEAT_8,1,1,5);` means that the sound clip `RD_UK_HOUSE_MAINBEAT_8` will
 
 Right now, I'm at step 0 of the Engineering Design Process because I haven't defined a problem yet and hvae only researched my tool for the past few weeks.
 
