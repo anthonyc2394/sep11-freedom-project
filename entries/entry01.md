@@ -5,7 +5,12 @@ In this blog entry, I will be discussing how I chose my tool for my freedom proj
 
 I haven't really tinkered with Earsketch, since there is a lot to learn still, but some of the things I learned were:
 
-* `fit.Media()` is a function that adds a soundclip that you can modify using parameters
+* `fitMedia()` is a function that adds a soundclip that you can modify using parameters
+* The format is `fitMedia(parameter1, parameter2, parameter3, parameter4)`
+* `parameter1` represents the sound clip chosen
+* `parameter2` represents the track number
+* `parameter3` represents the start measure (when the sound clip starts)
+* `parameter4` represents the end measure (when the sound clip ends)
 
 For example:
 
@@ -22,7 +27,7 @@ var fillC = "--000-00-00-0-00";
 makeBeat(OS_SNARE03, 3, 4, fillA);
 ```
 
-The line `fitMedia(RD_UK_HOUSE_MAINBEAT_8,1,1,5);` means that the sound clip `RD_UK_HOUSE_MAINBEAT_8` will
+The line `fitMedia(RD_UK_HOUSE_MAINBEAT_8,1,1,5);` means that the sound clip `RD_UK_HOUSE_MAINBEAT_8` will be added to track 1 , starting at measure 1 and ending at measure 5.
 
 Right now, I'm at step 0 of the Engineering Design Process because I haven't defined a problem yet and hvae only researched my tool for the past few weeks.
 
