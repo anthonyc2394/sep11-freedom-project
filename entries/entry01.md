@@ -1,7 +1,7 @@
 # Choosing My Tool
 ##### 11/07/22
 
-#### Content
+### Content
 
 In this blog entry, I will be discussing how I chose my tool for my freedom project. The tool that I chose was [Earsketch](https://earsketch.gatech.edu/landing/#/learn) which allows users to create music using Python or Javascript. My end goal for my freedom project is to create a music platform where people can create their own music and apply visuals to their work. The music platform would also save your work so you can edit your work instead of starting all over, since I want to work with someone that is learning [Firebase](https://firebase.google.com/).
 
@@ -39,11 +39,11 @@ The line `fitMedia(RD_UK_HOUSE_MAINBEAT_8,1,1,5);` means that the sound clip `RD
 
 The line `makeBeat(OS_SNARE03, 3, 4, fillA);` means that the sound clip `OS_SNARE03` will be added to track 3, starting and ending at measure 4 following the rhythm pattern of `var fillA = "0---0-0-00--0000";` where the `0`'s represnt when the rhythm plays and where the `-` reprsents when it pauses
 
-#### EDP
+### EDP
 
 Right now, I'm at step 0 of the Engineering Design Process because I haven't defined a problem yet and hvae only researched my tool for the past few weeks.
 
-#### Skills
+### Skills
 
 Some skills that I used during the past few weeks were How to learn and How to Google. I used the How to learn skill by remembering how I learned my SEP10 tool the best. Last year I learned best through videos and visual examples, so I used the How to Google skill to find good video tutorials that help me learn Earsketch using Javascript and not Python.
 
