@@ -12,6 +12,7 @@ I haven't really tinkered with Earsketch, since there is a lot to learn still, b
 * `parameter3` represents the start measure (when the sound clip starts)
 * `parameter4` represents the end measure (when the sound clip ends)
 
+
 * `makeBeat()` is a function that adds a rhythms that you can customize using parameters
 * It follows the same format as `fitMedia()` except for `parameter4`
 * `parameter4` represents the beat string (duration of the rhythm and when it pauses)
