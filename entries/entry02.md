@@ -1,4 +1,4 @@
-# Entry 2
+# Tinkering With My Tool
 ##### 12/16/22
 
 [Earsketch video](https://www.youtube.com/watch?v=MrPNjiQvyO8)
