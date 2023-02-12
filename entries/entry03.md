@@ -15,7 +15,7 @@ for (var measure = 1; measure < 5; measure++) {
 
 ### EDP
 
-Right now, I'm
+Right now, I'm at step 0 of the Engineering Design Process because I haven't defined a problem yet and hvae only researched my tool for a few months now.
 
 ### Skills
 
