@@ -15,12 +15,11 @@ for (var measure = 1; measure < 5; measure++) {
 
 ### EDP
 
-Right now, I'm 
+Right now, I'm
 
 ### Skills
 
-
-
+Some skills that I used during the past few weeks were How to learn and How to Google. I used the How to learn skill by remembering how I learned my SEP10 tool the best. Last year I learned best through videos and visual examples, so I used the How to Google skill to find good video tutorials that help me learn Earsketch using Javascript.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
