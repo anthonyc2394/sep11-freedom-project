@@ -3,6 +3,8 @@
 
 ### Content
 
+In this blog entry, I will be discussing what I have learned and practiced from [Earsketch](https://earsketch.gatech.edu/landing/#/learn).
+
 ``` js
 var drum1 = OS_SNARE03;
 var beat_string = "0---0---0-0-0---";
@@ -15,7 +17,7 @@ for (var measure = 1; measure < 5; measure++) {
 
 ### EDP
 
-Right now, I'm at step 0 of the Engineering Design Process because I haven't defined a problem yet and hvae only researched my tool for a few months now.
+Right now, I'm at step 0 of the Engineering Design Process because I haven't defined a problem yet and have no idea what to create, but I'm hoping that in my next entry I will have answers.
 
 ### Skills
 
