@@ -3,12 +3,13 @@
 
 ### Content
 
-In this blog entry, I will be discussing what I have learned and practiced within the past few months from [Earsketch](https://earsketch.gatech.edu/landing/#/learn). I learned how to use `for loops` and how to add custom sounds.
+In this blog entry, I will be discussing what I have learned and practiced within the past few months from [Earsketch](https://earsketch.gatech.edu/landing/#/learn). I learned how to use `for loops` and how to add custom sounds on Earskecth.
 
 #### Loops
 
 
-Below is an example of a `for loop` from [Earsketch](https://earsketch.gatech.edu/landing/#/learn)
+
+Below is an example of a `for loop` from [Earsketch](https://earsketch.gatech.edu/earsketch2/?curriculum=8-0-0&language=javascript)
 
 ``` js
 var drum1 = OS_SNARE03;
