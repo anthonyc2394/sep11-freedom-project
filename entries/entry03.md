@@ -3,7 +3,7 @@
 
 ### Content
 
-In this blog entry, I will be discussing what I have learned and practiced from [Earsketch](https://earsketch.gatech.edu/landing/#/learn).
+In this blog entry, I will be discussing what I have learned and practiced within the past few months from [Earsketch](https://earsketch.gatech.edu/landing/#/learn).
 
 ``` js
 var drum1 = OS_SNARE03;
