@@ -24,9 +24,9 @@ for (var measure = 1; measure < 5; measure++) {
 
 #### Custom Sounds
 
-Custom sounds is a feature on Earsketch that allows you to
+Custom sounds is a feature on Earsketch that allows you to create and add new sounds to Earskecth. You can add up to 30 seconds of a music file you want to use or have created by clicking the add sound button and uploading the file.
 
-in the following format:
+When you want to use the new file, you should use the following format:
 
 ``` js
 setTempo(120);
