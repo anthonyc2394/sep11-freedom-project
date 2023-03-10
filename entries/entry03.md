@@ -22,6 +22,9 @@ for (var measure = 1; measure < 5; measure++) {
 }
 ```
 
+This code would loop the sound `OS_SNARE03` and make it have the pattern `0---0---0-0-0---` starting from measure 1 till the condition is false (when measure is = 5).
+
+
 #### Custom Sounds
 
 Custom sounds is a feature on Earsketch that allows you to create and add new sounds to Earskecth. You can add up to 30 seconds of a music file you want to use or have created by clicking the add sound button and uploading the file.
