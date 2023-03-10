@@ -7,6 +7,7 @@ In this blog entry, I will be discussing what I have learned and practiced withi
 
 #### Loops
 
+Similar to how artists can play a pattern repeatedly using a loop pedal, programmers can instruct the computer to perform actions repeatedly using a `for loop`.
 
 
 Below is an example of a `for loop` from [Earsketch](https://earsketch.gatech.edu/earsketch2/?curriculum=8-0-0&language=javascript)
@@ -20,6 +21,19 @@ for (var measure = 1; measure < 5; measure++) {
     makeBeat(drum1, 1, measure, beat_string);
 }
 ```
+
+#### Custom Sounds
+
+Custom sounds is a feature on Earsketch that allows you to
+
+in the following format:
+
+``` js
+setTempo(120);
+
+fitMedia(username/beatname, track number, start measure, end measure);
+```
+
 
 ### EDP
 
