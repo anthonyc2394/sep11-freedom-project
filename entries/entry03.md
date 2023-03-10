@@ -7,7 +7,7 @@ In this blog entry, I will be discussing what I have learned and practiced withi
 
 #### Loops
 
-Similar to how artists can play a pattern repeatedly using a loop pedal, programmers can instruct the computer to perform actions repeatedly using a `for loop`.
+Similar to how artists can play a pattern repeatedly using a loop pedal, programmers can instruct the computer to perform actions repeatedly using a `for loop`. A `for loop` is a loop that repeats until a specified condition is false. A `for loop` takes in 3 components: initialization, condition and afterthought.
 
 
 Below is an example of a `for loop` from [Earsketch](https://earsketch.gatech.edu/earsketch2/?curriculum=8-0-0&language=javascript)
