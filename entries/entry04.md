@@ -3,8 +3,7 @@
 
 ### Content
 
-In this blog entry, I will be discussing my progress with [Earsketch](https://earsketch.gatech.edu/landing/#/learn) and my MVP for my freedom project.
-
+In this blog entry, I will be discussing my progress with [Earsketch](https://earsketch.gatech.edu/landing/#/learn) and my MVP for my freedom project. The MVP for my project is to make a webpage with at least 5 songs (at least 1 made from Earsketch sounds) that you can choose from. My plan for going beyond my MVP is to create visuals using [p5js](https://p5js.org/) for each song.
 I plan on uploading my music sounds onto Earskecth because I don't really like the sounds they offer, but I will try to make at least 1 song using sounds from Earsketch because I don't want to take the easy way out.
 
 ### EDP
