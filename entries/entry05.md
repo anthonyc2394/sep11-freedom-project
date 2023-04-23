@@ -11,7 +11,7 @@ Some of my favorite sounds are:
 * `RD_ELECTRO_DRUMROLLBREAK_6`
 * `Y21_KEY_3`
 
-After looking over my favorites I decided to use piano sounds, but I still had no idea how I would structure my song and the sounds I would use. I started off with `AK_UNDOG_PIANO_3`, but I didn't want it to start like that, so I decided to search the artist, Alicia Keys, to find sounds that would fit with the piano. I came across vocals such as `AK_UNDOG_OOHS_AHHS_4` and `AK_UNDOG_OOHS_AHHS_1` to create vocals for the intro 
+After looking over my favorites I decided to use piano sounds, but I still had no idea how I would structure my song and the sounds I would use. I started off with `AK_UNDOG_PIANO_3`, but I didn't want it to start like that, so I decided to search the artist, Alicia Keys, to find sounds that would fit with the piano. I came across some vocals such as `AK_UNDOG_OOHS_AHHS_4` and `AK_UNDOG_OOHS_AHHS_1` to create vocals for the intro.
 
 ```js
 // Loops
@@ -31,7 +31,7 @@ The next steps for my freedom project si to create a pop song and then start cre
 
 ### EDP
 
-Right now, I'm on steps 5, 6 and 7 of the Engineering Design Process
+Right now, I'm on steps 5, 6 and 7 of the Engineering Design Process because I created my mvp, but it took a lot of trial and error to finish it and I plan to keep doing this throughout the rest of my project.
 
 ### Skills
 
