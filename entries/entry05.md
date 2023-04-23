@@ -11,7 +11,7 @@ Some of my favorite sounds are:
 * `RD_ELECTRO_DRUMROLLBREAK_6`
 * `Y21_KEY_3`
 
-After looking over my favorites I decided to use piano sounds, but I still had no idea how I would structure my song and the sounds I would use. I started off with `AK_UNDOG_PIANO_3`, but I didn't want it to start like that, so I decided to search the artist, Alicia Keys, to find sounds that would fit with the piano. I came across vocals such as ``
+After looking over my favorites I decided to use piano sounds, but I still had no idea how I would structure my song and the sounds I would use. I started off with `AK_UNDOG_PIANO_3`, but I didn't want it to start like that, so I decided to search the artist, Alicia Keys, to find sounds that would fit with the piano. I came across vocals such as `AK_UNDOG_OOHS_AHHS_4` and `AK_UNDOG_OOHS_AHHS_1` to create vocals for the intro 
 
 ```js
 // Loops
@@ -23,8 +23,7 @@ for (var measure = 10; measure < 25; measure += 2) {
 }
 ```
 
-From there I just added sounds that made the song better (drums, vocals and more)
-
+From there I just added sounds that made the song better (drums, vocals and more) and I finished it.
 The code for the entire song is [here](https://github.com/anthonyc2394/freedom-project-mvp/blob/main/script.js)
 
 
