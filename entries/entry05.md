@@ -8,8 +8,10 @@ In this blog entry, I will be walking you through the process of me finishing th
 Some of my favorite sounds are:
 
 * `AK_UNDOG_PIANO_3`
-*
-*
+* `RD_ELECTRO_DRUMROLLBREAK_6`
+* `Y21_KEY_3`
+
+After 
 
 ```js
 // Loops
@@ -21,10 +23,10 @@ for (var measure = 10; measure < 25; measure += 2) {
 }
 ```
 
-The song code is [here](https://github.com/anthonyc2394/freedom-project-mvp/blob/main/script.js)
+The code for the entire song is [here](https://github.com/anthonyc2394/freedom-project-mvp/blob/main/script.js)
 
 
-The next steps for my freedom project si to create a pop song and then start creating visuals (videos) using [p5js](https://p5js.org/) for each song. So far I know
+The next steps for my freedom project si to create a pop song and then start creating visuals (videos) using [p5js](https://p5js.org/) for each song. So far I've been looking at this [documentation](https://p5js.org/examples/sound-load-and-play-sound.html) to see if my idea is possible, but I haven't tried it yet
 
 ### EDP
 
