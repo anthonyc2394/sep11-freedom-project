@@ -3,6 +3,8 @@
 
 ### Content
 
+In this blog entry, I will be walking you through the process of me presenting in the 
+
 ### EDP
 
 ### Skills
