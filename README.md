@@ -9,9 +9,11 @@ For my project, I am making X. This blog will walk through my process of indepen
 
 ## Links
 
-Product
+[Song #1](https://earsketch.gatech.edu/earsketch2/?sharing=GRpL9YeLWLyzWMu4navECw)
+[Song #2](https://earsketch.gatech.edu/earsketch2/?sharing=Y0FO29BLCYjG58jlrjm8YA)
+[Song #3](https://earsketch.gatech.edu/earsketch2/?sharing=l2pk3hT3-xTdhj9py9_bIA)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1BFCZ5Z4Wn3D-pC0DY2w8oCDnFfe5Kel1N_O9xbMq6ZI/edit#slide=id.p)
 
 ## Implications
 X
