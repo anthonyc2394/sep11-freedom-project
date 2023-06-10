@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Anthony Calixto
 
 ## Context
 The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making music. This blog will walk through my process of independently studying Earsketch in order to make my own music using Javascript.
 
 ## Links
 
