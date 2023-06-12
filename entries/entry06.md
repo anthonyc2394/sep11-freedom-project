@@ -3,7 +3,7 @@
 
 ### Content
 
-In this blog entry, I will be walking you through the process of my presenting at the SEP Expo and my SEP class. Some differences between the two presentations are that the SEP Expo presentation is a short 1-minute presentation summarizing your process and your project, while the presentation SEP class presentation is a more casual 3-10 minute slideshow presentation where you explain your process and your project in more detail. I felt more confident on my SEP class presentation because I had more time to plan and practice my presentation and if I ran out of things to say or if I got stuck, I could always refer back to my slides.
+In this blog entry, I will be walking you through the process of my presenting at the SEP Expo and my SEP class. Some differences between the two presentations are that the SEP Expo presentation is a short 1-minute presentation summarizing your process and your project, while the presentation SEP class presentation is a graded, more casual 3-10 minute slideshow presentation where you explain your process and your project in more detail. I felt more confident on my SEP class presentation because I had more time to plan and practice my presentation and if I ran out of things to say or if I got stuck, I could always refer back to my slides.
 
 My original plan was:
 ```html
@@ -19,7 +19,7 @@ Thank you
 ```
 I sticked to my plan and made a 10 slide presentation.
 
-At the SEP Expo, I felt more nervous because although I wasn't getting graded, I was being judged by my work and by my presentation and that made me nervous.
+At the SEP Expo, I felt more nervous because although I wasn't getting graded, I was being judged by my work and by my presentation and that made me nervous. Unlike my SEP class presentation, I had no slides and I didn't plan my presentation. I'm pretty sure I changed my presentation like 5 times during the expo and it worked out in my favor because each presentation was better than the one before it. It was worth it in the end because I didn't get top 3, but I got an honorable mention. I am overall proud of how I presented in the expo ad I hope to do better next year.
 
 Some takeaways I got from presenting are:
 
