@@ -3,7 +3,7 @@
 
 ### Content
 
-In this blog entry, I will be walking you through the process of me presenting in the SEP Expo and my SEP class. Some differences between the two presentations are that the SEP Expo presentation is a short 1 minute presentation summarizing your process and your project, while the presentation SEP class presentation is more casual 3-10 minute slideshow presentation where you explain your process and your project in more detail. Personally, 
+In this blog entry, I will be walking you through the process of me presenting in the SEP Expo and my SEP class. Some differences between the two presentations are that the SEP Expo presentation is a short 1 minute presentation summarizing your process and your project, while the presentation SEP class presentation is more casual 3-10 minute slideshow presentation where you explain your process and your project in more detail. Personally, I felt more confident on my SEP class presentation because I had more time to plan and practice my presentation and if I ran out of things to say or if I got stuck, I could always refer back to my slides. 
 
 Some takeaways I got from presenting are:
 
