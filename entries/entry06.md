@@ -17,6 +17,7 @@ Challenges - finding sounds, adjusting volume
 Takeaways - what I learned throughout the whole process
 Thank you
 ```
+I sticked to my plan and made a 10 slide presentation.
 
 At the SEP Expo, I felt more nervous because although I wasn't getting graded, I was being judged by my work and by my presentation and that made me nervous.
 
