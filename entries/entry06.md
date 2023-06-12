@@ -3,11 +3,10 @@
 
 ### Content
 
-In this blog entry, I will be walking you through the process of me presenting in the EP Expo and my SEP class.
-
-
+In this blog entry, I will be walking you through the process of me presenting in the SEP Expo and my SEP class. Some differences between the two presentations are that the SEP Expo presentation is a short 1 minute presentation summarizing your process and your project, while the presentation SEP class presentation is more casual 3-10 minute slideshow presentation where you explain your process and your project in more detail. Personally, 
 
 Some takeaways I got from presenting are:
+
 * Be confident; being nervous will mess up your flow
 * Organize yourself and plan ahead
 * Practice makes perfect

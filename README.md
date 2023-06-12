@@ -18,7 +18,8 @@ For my project, I am making music. This blog will walk through my process of ind
 [Presentation](https://docs.google.com/presentation/d/1BFCZ5Z4Wn3D-pC0DY2w8oCDnFfe5Kel1N_O9xbMq6ZI/edit#slide=id.p)
 
 ## Implications
-X
+
+
 
 ---
 
