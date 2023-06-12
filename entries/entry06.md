@@ -3,7 +3,22 @@
 
 ### Content
 
-In this blog entry, I will be walking you through the process of my presenting at the SEP Expo and my SEP class. Some differences between the two presentations are that the SEP Expo presentation is a short 1-minute presentation summarizing your process and your project, while the presentation SEP class presentation is a more casual 3-10 minute slideshow presentation where you explain your process and your project in more detail. I felt more confident on my SEP class presentation because I had more time to plan and practice my presentation and if I ran out of things to say or if I got stuck, I could always refer back to my slides. At the SEP Expo, I felt more nervous because although I wasn't getting graded, I was being judged by my work and by my presentation and that made me nervous.
+In this blog entry, I will be walking you through the process of my presenting at the SEP Expo and my SEP class. Some differences between the two presentations are that the SEP Expo presentation is a short 1-minute presentation summarizing your process and your project, while the presentation SEP class presentation is a more casual 3-10 minute slideshow presentation where you explain your process and your project in more detail. I felt more confident on my SEP class presentation because I had more time to plan and practice my presentation and if I ran out of things to say or if I got stuck, I could always refer back to my slides.
+
+My original plan was:
+```html
+Slide with name and tool
+Hook - Display two sounds (one from Earsketch, one I find)
+Explain Earsketch
+Mvp - explain loops and how it was useful for my first song
+Explain glows and grows from the activity we did and how it affected my beyond mvp
+Beyond Mvp - explain setEffect and how it was useful for my second and third songs
+Challenges - finding sounds, adjusting volume
+Takeaways - what I learned throughout the whole process
+Thank you
+```
+
+At the SEP Expo, I felt more nervous because although I wasn't getting graded, I was being judged by my work and by my presentation and that made me nervous.
 
 Some takeaways I got from presenting are:
 
@@ -19,7 +34,7 @@ Some takeaways I got from presenting are:
 
 [Song #3](https://earsketch.gatech.edu/earsketch2/?sharing=l2pk3hT3-xTdhj9py9_bIA)
 
-[Presentation](https://docs.google.com/presentation/d/1BFCZ5Z4Wn3D-pC0DY2w8oCDnFfe5Kel1N_O9xbMq6ZI/edit#slide=id.p)
+[Slide Presentation](https://docs.google.com/presentation/d/1BFCZ5Z4Wn3D-pC0DY2w8oCDnFfe5Kel1N_O9xbMq6ZI/edit#slide=id.p)
 
 ### EDP
 
