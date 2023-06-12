@@ -43,7 +43,7 @@ Currently I'm on step 8 of the Engineering Design Process because I have shared 
 
 ### Skills
 
-
+Some skills I used throughout this process are consideration, creativity and growth mindset. I used consideration and creativity when I planned how I was going to present whether it was at the SEP class presentation or the SEP Expo. I showed a growth mindset when I got feedback on my presentations. I understand ho I could improve and what I need to focus on in the future during my presentations.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
